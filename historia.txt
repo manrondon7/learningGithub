@@ -2,3 +2,9 @@ una prueba XD
 dsadasd
 
 esta es la primera modificacion xD
+
+una modificacion mas
+
+una 4 modificacion para ternewr mas commits
+
+este es un parrafo que introduzco para probar el reset soft, y tratare de hacer un commit desde una version vieja de historia.txt
